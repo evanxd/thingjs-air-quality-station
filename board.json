@@ -1,0 +1,8 @@
+{
+  "modules": {
+    "dustSensor": { "module": "DustSensor", "pins": 0 }
+  },
+  "extensions": {
+    "thingjs-air-quality-station": { "modules": "dustSensor" }
+  }
+}
