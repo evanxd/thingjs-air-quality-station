@@ -1,0 +1,23 @@
+{
+  "name": "thingjs-air-quality-station",
+  "description": "A Thing.js extension builds an air quality station.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Evan Tseng",
+    "email": "evan@tseng.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanxd/thingjs-air-quality-station"
+  },
+  "keywords": [
+    "device",
+    "iot",
+    "linkit",
+    "maker",
+    "raspberry-pi"
+  ],
+  "devDependencies": {
+    "thing-js": "evanxd/thing-js"
+  }
+}
